@@ -24,4 +24,4 @@ def imput_train(t_latest, t0, pv_ids, sim_name, dump=False):
         Columns: ["Pg_kW", "filled"]
     """
 	
-	return bruhu
+	return "bruhu"
