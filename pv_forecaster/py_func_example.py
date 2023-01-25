@@ -23,6 +23,8 @@ def imput_train(t_latest, t0, pv_ids, sim_name, dump=False):
         Index: ["pv_id", "timestamp_utc"]
         Columns: ["Pg_kW", "filled"]
     """
-    
+
+    a = '5'
+
     return 'bruhu'
 
