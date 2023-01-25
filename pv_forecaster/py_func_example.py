@@ -13,15 +13,16 @@ def imput_train(t_latest, t0, pv_ids, sim_name, dump=False):
         String representing simulation name.
     dump : bool, optional
         Denotes whether to dump results to DB (DB has to be emptied before).
-        In case of True, empty tables: 
+        In case of True, empty tables:
         [RtData15min_SE_clean], [ss_agg_clean], [slo_agg_clean]
 
     Returns
     -------
     pv_df_clean : pandas.DataFrame, if dump=False
-        Dataframe of series. 
+        Dataframe of series.
         Index: ["pv_id", "timestamp_utc"]
         Columns: ["Pg_kW", "filled"]
     """
-	
-	return "bruhu"
+    
+    return 'bruhu'
+
