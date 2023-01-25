@@ -1,0 +1,1 @@
+pv-forecaster is an app for forecasting the PV production across Slovenia.
